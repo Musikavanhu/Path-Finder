@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+Visual Demo 
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/5069914/159935716-d67d8391-514b-43db-8637-1125826704e0.gif)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
